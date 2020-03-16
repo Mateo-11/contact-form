@@ -7,7 +7,7 @@
                         "DOM",
                         "ES2017"
                 ],
-                "outFile": "script.js"
+                "outFile": "js/main.js"
         },
         "include": [
                 "ts/*"
